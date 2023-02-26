@@ -2,6 +2,7 @@ package com.xbw.domain;
 
 import com.sun.jdi.request.StepRequest;
 
+
 /**
  * @projectName: workspaceFroGit01
  * @package: com.xbw.domain
@@ -13,4 +14,5 @@ import com.sun.jdi.request.StepRequest;
  */
 public class Person {
     private String id;
+    private String id1;
 }
