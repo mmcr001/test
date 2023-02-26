@@ -13,4 +13,6 @@ package com.xbw.domain;
 public class Person {
     private String id;
     private String id1;
+    private String id2;
+    private String id3;
 }
